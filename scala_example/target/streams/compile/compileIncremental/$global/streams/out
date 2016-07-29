@@ -1,0 +1,61 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(C:\Users\min\IdeaProjects\scala_example\src\main\scala\example\Example.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(C:\Users\min\IdeaProjects\scala_example\src\main\scala\example\Example.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\min\IdeaProjects\scala_example\src\main\scala\example\Example.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to C:\Users\min\IdeaProjects\scala_example\target\scala-2.11\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.11.8  with arguments: [0m
+[0m[[0mdebug[0m] [0m	-nowarn[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	C:\Users\min\AppData\Local\Temp\sbt_66898280[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jre7\lib\resources.jar;C:\Program Files\Java\jre7\lib\rt.jar;C:\Program Files\Java\jre7\lib\sunrsasign.jar;C:\Program Files\Java\jre7\lib\jsse.jar;C:\Program Files\Java\jre7\lib\jce.jar;C:\Program Files\Java\jre7\lib\charsets.jar;C:\Program Files\Java\jre7\lib\jfr.jar;C:\Program Files\Java\jre7\classes;C:\Users\min\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\min\.sbt\boot\scala-2.10.4\org.scala-sbt\sbt\0.13.8\xsbti\interface-0.13.8.jar;C:\Users\min\.sbt\boot\scala-2.10.4\org.scala-sbt\sbt\0.13.8\compiler-interface-src\compiler-interface-src-0.13.8.jar;C:\Users\min\.ivy2\cache\org.scala-lang\scala-compiler\jars\scala-compiler-2.11.8.jar;C:\Users\min\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.8.jar;C:\Users\min\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\bundles\scala-xml_2.11-1.0.4.jar;C:\Users\min\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\bundles\scala-parser-combinators_2.11-1.0.4.jar;C:\Users\min\.ivy2\cache\jline\jline\jars\jline-2.12.1.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\min\AppData\Local\Temp\sbt_3f00182a\xsbt\API.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\min\AppData\Local\Temp\sbt_3f00182a\xsbt\Analyzer.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\min\AppData\Local\Temp\sbt_3f00182a\xsbt\Command.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\min\AppData\Local\Temp\sbt_3f00182a\xsbt\Compat.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\min\AppData\Local\Temp\sbt_3f00182a\xsbt\CompilerInterface.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\min\AppData\Local\Temp\sbt_3f00182a\xsbt\ConsoleInterface.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\min\AppData\Local\Temp\sbt_3f00182a\xsbt\DelegatingReporter.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\min\AppData\Local\Temp\sbt_3f00182a\xsbt\Dependency.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\min\AppData\Local\Temp\sbt_3f00182a\xsbt\ExtractAPI.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\min\AppData\Local\Temp\sbt_3f00182a\xsbt\ExtractUsedNames.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\min\AppData\Local\Temp\sbt_3f00182a\xsbt\LocateClassFile.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\min\AppData\Local\Temp\sbt_3f00182a\xsbt\Log.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\min\AppData\Local\Temp\sbt_3f00182a\xsbt\Message.scala[0m
+[0m[[0mdebug[0m] [0m	C:\Users\min\AppData\Local\Temp\sbt_3f00182a\xsbt\ScaladocInterface.scala[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler e2c956, interfacing (CompilerInterface) with Scala compiler version 2.11.8[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jre7\lib\resources.jar;C:\Program Files\Java\jre7\lib\rt.jar;C:\Program Files\Java\jre7\lib\sunrsasign.jar;C:\Program Files\Java\jre7\lib\jsse.jar;C:\Program Files\Java\jre7\lib\jce.jar;C:\Program Files\Java\jre7\lib\charsets.jar;C:\Program Files\Java\jre7\lib\jfr.jar;C:\Program Files\Java\jre7\classes;C:\Users\min\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\min\IdeaProjects\scala_example\target\scala-2.11\classes[0m
+[0m[[0mdebug[0m] [0mScala compilation took 11.663884569 s[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Users\min\IdeaProjects\scala_example\src\main\scala\example\Example.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from C:\Users\min\IdeaProjects\scala_example\src\main\scala\example\Example.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Users\min\IdeaProjects\scala_example\src\main\scala\example\Example.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(C:\Users\min\IdeaProjects\scala_example\src\main\scala\example\Example.scala)[0m
+[0m[[0mdebug[0m] [0mThe C:\Users\min\IdeaProjects\scala_example\src\main\scala\example\Example.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, asInstanceOf, executionStart, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, Example, toString, args, !=, getClass, ne, eq, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
